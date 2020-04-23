@@ -1,6 +1,8 @@
 ## Tetris
 Este repositório apresenta um dos maiores clássicos no quesito game. Trata-se do mais famigerado jogo de blocos mais conhecido como Tetris.
 
+![Screenshots](https://raw.githubusercontent.com/eduardowgmendes/Tetris/master/images/tetris-screens.png)
+
 ### Como Jogar
 * `CIMA` - Rotaciona o Tetraminó
 * `BAIXO` - Rotaciona o Tetraminó
