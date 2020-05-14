@@ -1,5 +1,5 @@
 ## Tetris
-Este repositório apresenta um dos maiores clássicos no quesito game. Trata-se do mais famigerado jogo de blocos mais conhecido como Tetris escrito em Java.
+Este repositório apresenta um dos maiores games clássicos de todos os tempos. Trata-se do mais famigerado jogo de blocos mais conhecido como Tetris escrito em Java.
 
 ![Screenshots](https://raw.githubusercontent.com/eduardowgmendes/Tetris/master/images/tetris-screens.png)
 
