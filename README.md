@@ -3,7 +3,7 @@ Este repositório apresenta um dos maiores games clássicos de todos os tempos. 
 
 ![Screenshots](https://raw.githubusercontent.com/eduardowgmendes/Tetris/master/images/tetris-screens.png)
 
-### Como Jogar
+## Como Jogar
 * `CIMA` - Rotaciona o Tetraminó
 * `BAIXO` - Rotaciona o Tetraminó
 * `ESQUERDA` - Rotaciona o Tetraminó
